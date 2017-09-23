@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo on Andrew Y. Kim</title>
+    <link>/tags/demo/</link>
+    <description>Recent content in Demo on Andrew Y. Kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Andrew Y. Kim</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/demo/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Katherine Mansfield R Package</title>
+      <link>/project/katherinemansfieldr/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/katherinemansfieldr/</guid>
+      <description>
+
+&lt;h2 id=&#34;an-r-package-for-katherine-mansfield-s-short-stories&#34;&gt;An R Package for Katherine Mansfield&amp;rsquo;s Short Stories&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;I imagine I was always writing. Twaddle it was, too. But better far write twaddle or anything, anything, than nothing at all.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;- Katherine Mansfield&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;On &lt;a href=&#34;https://github.com/Amherst-Statistics/katherinemansfieldr&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This package allows users to access the short story works of Katherine
+Mansfield available on the ebooks@adelaide.edu website. The works have been converted from the UTF-8 text into files that are immediately ready for use. Each text is a character vector with elements that represent every paragraph. The works contained are as follows:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;somethingChildish&lt;/code&gt; - &lt;em&gt;Something Childish, and Other Stories&lt;/em&gt;, published in 1924 and contains stories from 1908 to 1921&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;bliss&lt;/code&gt; - &lt;em&gt;Bliss, and Other Stories&lt;/em&gt;, published in 1923 and contains stories from 1915 to 1920&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;gardenParty&lt;/code&gt; - &lt;em&gt;The Garden Party, and Other Stories&lt;/em&gt;, published in 1922 and contains stories from 1920 to 1922&lt;/p&gt;
+
+&lt;p&gt;There is also &lt;code&gt;mansfieldComplete&lt;/code&gt; which contains all of the stories from the three story collections in one character vector.&lt;/p&gt;
+
+&lt;p&gt;This package also contains text mining and feature extraction functions for textual data analysis problems. Tasks performed by functions contained in this package include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Parsing textual elements such as tokens (words), types (unique words), sentences and punctuation marks from a character vector of text&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Breaking large texts into chapters and subsections&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Extracting information about textual elements in the text such as frequency of words/punctuation marks, type/token ratio, and length of words/sentences&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+
+&lt;p&gt;To install this package, please refer to the following commands:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;devtools::install_github(&amp;quot;Amherst-Statistics/katherinemansfieldr&amp;quot;)
+library(katherinemansfieldr)
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WAI Database</title>
+      <link>/project/wai_database/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/wai_database/</guid>
+      <description>&lt;p&gt;A Shiny app that visualizes audological data from datasets in the open access Wideband Acoustic Immitance (WAI) database, created by the Picker Engineering Program at Smith College.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
