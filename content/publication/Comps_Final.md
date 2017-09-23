@@ -19,6 +19,6 @@ url_video = ""
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "headers/text_background.jpg"
-caption = ""
+caption = "Image taken from http://upperclassmonroe.blogs.wm.edu"
 
 +++

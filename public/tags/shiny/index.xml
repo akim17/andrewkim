@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shiny on Andrew Y. Kim</title>
+    <link>/tags/shiny/</link>
+    <description>Recent content in Shiny on Andrew Y. Kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Andrew Y. Kim</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/shiny/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>WAI Database</title>
+      <link>/project/wai_database/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/wai_database/</guid>
+      <description>&lt;p&gt;A Shiny app that visualizes audological data from datasets in the open access Wideband Acoustic Immitance (WAI) database, created by the Picker Engineering Program at Smith College.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

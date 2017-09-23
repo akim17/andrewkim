@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Andrew Y. Kim</title>
-    <link>/publication/</link>
-    <description>Recent content in Publications on Andrew Y. Kim</description>
+    <title>3 on Andrew Y. Kim</title>
+    <link>/publication_types/3/</link>
+    <description>Recent content in 3 on Andrew Y. Kim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Andrew Y. Kim</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication_types/3/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Statistical Methods to Analyze Wideband Acoustic Immittance Measurements from an Online Database</title>
@@ -16,15 +16,6 @@
       <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/publication/jse_paper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prose Fiction Classification Using Support Vector Machines</title>
-      <link>/publication/comps_final/</link>
-      <pubDate>Sun, 23 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/comps_final/</guid>
       <description></description>
     </item>
     
