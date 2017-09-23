@@ -4,9 +4,9 @@
 date = 2017-09-20
 draft = false
 
-title = "Tags"
+title = ""
 subtitle = ""
-widget = "tag_cloud"
+widget = ""
 
 # Order that this section will appear in.
 weight = 65
